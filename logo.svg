@@ -5,7 +5,7 @@
   <g id="Logo-Container">
     <!-- Solid Corporate Maroon Shield Base -->
     <path fill="#B81D43" d="M 20,400 L 20,45 Q 250,15 480,45 L 480,400 Z" />
-
+    
     <!-- Left White Cutout Panel Shape -->
     <path fill="#FFFFFF" d="M 20,400 L 130,400 L 160,195 C 145,130 135,80 115,45 L 20,45 Z" />
     
