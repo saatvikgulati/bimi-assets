@@ -2,7 +2,16 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      version="1.2"
      baseProfile="tiny-ps"
-     viewBox="0 0 200 200">
+     viewBox="0 0 200 200"
+     width="200" height="200">
+
+  <rect x="0" y="0" width="200" height="200" fill="#FFFFFF"/>
+
+  <!-- Crimson body with arched roof -->
+  <path fill="#B81D43" d="M 6,166 L 6,12 Q 100,-12 194,12 L 194,166 Z"/>
+
+  <!-- White T bar -->
+  <rect fill="#FFFFFF" x="48" y="7" width="104" height="20"/>
 
   <!-- White M-leg wedges -->
   <path fill="#FFFFFF" d="M 50.5,35 L 51.5,35 L 63.5,104 L 84,167 L 55,167 Z"/>
